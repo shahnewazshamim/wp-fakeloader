@@ -1,4 +1,4 @@
-# wp-fakeloader
+# WP Fakeloader
 WP Fakeloader is a simple and customizable wordpress preloader plugin based on fakeloader js.
 
 ### Uses
