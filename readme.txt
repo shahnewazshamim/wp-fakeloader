@@ -1,5 +1,5 @@
 === WP Fakeloader ===
-Contributors: mdshamimshahnewaz, lutforrahman
+Contributors: mdshamimshahnewaz
 Donate link: 
 Tags: WP Fakeloader, WP Preloader, wordpress preloader, wordpress fakeloader, wordpress, preloader, fakeloader, fakeloader js, loader, loading, loading screen overlay, load, loading, page, preload, preload page, wordpress loading page, admin, gif, options, option, background, website preloader, loader, simple preloader
 Requires at least: 3.5
