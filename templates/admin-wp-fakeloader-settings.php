@@ -187,3 +187,10 @@ echo '<hr>';
     <?php submit_button(); ?>
 
 </form>
+
+<div>
+    <p>
+        Using WP Fakeloader by Shortcode [fakeloader] with calling do_shortcode() method in your template header file.
+    </p>
+</div>
+<pre>   echo do_shortcode("[fakeloader]");</pre>
